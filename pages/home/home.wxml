@@ -1,0 +1,11 @@
+<block>
+  <view>{{text}}</view>
+  <view>{{array[0].msg}}</view>
+  <view>{{golabData}}</view>
+</block>
+<block>
+{{currentData}}
+</block>
+
+<button bindtap="changeDate">改变golabe data</button>
+
