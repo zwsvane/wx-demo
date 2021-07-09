@@ -1,5 +1,4 @@
-
-  <block>
+<block>
   <view>{{text}}</view>
   <view>{{array[0].msg}}</view>
   <view>{{golabData}}</view>
@@ -9,8 +8,4 @@
 </block>
 
 <button bindtap="changeDate">改变golabe data</button>
-
-
-<view  class="target-class" id="id-class">1111111</view>
-
 
